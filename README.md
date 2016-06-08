@@ -13,3 +13,5 @@ VertexHeightMap
 	}
 ```
 For create EarthHeight.dds it was use http://www.ngdc.noaa.gov/mgg/image/2minrelief.html + http://visibleearth.nasa.gov/view.php?id=73934 & diferite special layer to control brightness, tone, colour variation ...
+
+There are two versions of EarthHeight.dds, the difference is given by the lightness and an extra layer for have 2 situation for more testing option
